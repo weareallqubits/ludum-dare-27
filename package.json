@@ -9,6 +9,7 @@
   "scripts": {
     "start": "node server.js",
     "bundle": "browserify index.js | uglifyjs -c > bundle.js",
+    "build": "npm run bundle",
     "test": "say sorry"
   },
   "repository": {
