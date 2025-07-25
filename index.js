@@ -12,7 +12,5 @@ function loop() {
   //   .on('draw', function() { game.draw() })
 }
 
-process.nextTick(function() {
-  game.start()
-  loop()
-})
+game.start()
+loop()

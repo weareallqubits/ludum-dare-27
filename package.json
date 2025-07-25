@@ -29,7 +29,7 @@
     "pointer-trap": "0.0.0",
     "kb-controls": "0.0.2",
     "ticker": "0.0.1",
-    "bindlestiff": "0.0.0",
+    "bindlestiff": "~0.1.0",
     "tune": "~0.2.0",
     "inherits": "~2.0.1",
     "box2dweb-commonjs": "~2.1.0",
