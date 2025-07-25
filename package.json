@@ -43,6 +43,7 @@
     "raf": "0.0.3",
     "perlin": "~1.0.0",
     "ndarray-fill": "~0.1.0",
-    "box2d-events": "0.0.1"
+    "box2d-events": "0.0.1",
+    "object-pool": "0.0.0"
   }
 }
